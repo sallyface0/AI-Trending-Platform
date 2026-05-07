@@ -73,10 +73,6 @@ GitHub Search API  ──┘        ↓                    ↓                  
                           数据采集              AI 摘要               Skills/MCP 匹配
 ```
 
-## 📄 License
-
-MIT
-
 ---
 
 *Made with OpenClaw AI Agent*
