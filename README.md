@@ -1,4 +1,4 @@
-# AI Trending Platform
+﻿# AI Trending Platform
 
 GitHub 热门 AI 项目聚合平台 —— 自动抓取、AI 翻译摘要、Skills/MCP 智能推荐。
 
@@ -73,6 +73,3 @@ GitHub Search API  ──┘        ↓                    ↓                  
                           数据采集              AI 摘要               Skills/MCP 匹配
 ```
 
----
-
-*Made with OpenClaw AI Agent*
